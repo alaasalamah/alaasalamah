@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alaasalamah
 -iam an AISS , it means (artificial intelligence security specialist).
--stil working on Blue & Red teams sides.
+-still working on Blue & Red teams sides.
 -working on my self to become Security engineer.
 
 <!---
